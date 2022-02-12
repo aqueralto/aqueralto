@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Albert</h1>
-<h3 align="center">A passionate Data Scientist and Physicist from Barcelona</h3>
+<h3 align="center">Data Scientist, Physicist and Coding Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqueralto&label=Profile%20views&color=0e75b6&style=flat" alt="aqueralto" /> </p>
 
