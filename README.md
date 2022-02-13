@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Albert</h1>
-<h3 align="center">Data Scientist, PhD in Materials Science and Physicist <div class="vertLine">Computer Science and Coding Enthusiast</div></h3>
+<h3 align="center">Data Scientist, PhD in Materials Science and Physicist  
+  <!-- style to create vertical line -->
+    <style>
+        .vertical {
+            border-left: 6px solid black;
+            height: 200px;
+            position:absolute;
+            left: 50%;
+        }
+    </style>
+  Computer Science and Coding Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqueralto&label=Profile%20views&color=0e75b6&style=flat" alt="aqueralto" /> </p>
 
