@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Albert</h1>
 
+# https://github.com/DenverCoder1/readme-typing-svg
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;I+am+a+Data+Scientist+with+a+Physics+background+and+a+PhD+in+Materials+Science;I+am+also+a+Computer+Science+and+Coding+Enthusiast)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqueralto&label=Profile%20views&color=0e75b6&style=flat" alt="aqueralto" /> </p>
