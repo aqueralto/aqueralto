@@ -85,8 +85,8 @@ Here are some ideas to get you started:
 
 ### Visualisation Tools
 <p  
-  <a href="https:77matplotlib.org/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <a href="https://matplotlib.org/" target="_blank">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logo=matplotlib&logoColor=white">
   </a>
    
    <a href="https://plotly.com/" target="_blank">
