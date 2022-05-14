@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ## Connect with me <img src = "https://media1.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif?cid=ecf05e47mww72ovcbhd0dxbva0nqpqxm1mdu1mfw57rw6g8f&rid=giphy.gif&ct=s" width = 25 px>
 
 <a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge"></a>
-<a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertqueralto" height="30" width="40" /></a>
-<a href="https://kaggle.com/albertqueralto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="albertqueralto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="albertqueralto"></a>
+<a href="https://kaggle.com/albertqueralto" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge" alt="albertqueralto"></a>
 </p>
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Database Tools
-<p
+<p>
      <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
@@ -129,7 +129,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   
@@ -144,7 +144,8 @@ Here are some ideas to get you started:
 </p>
 
 ### Data Manipulation Tools
-<p  
+<p> 
+  
   <a href="https://numpy.org/" target="_blank">
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   </a>
@@ -161,7 +162,7 @@ Here are some ideas to get you started:
   
 
 ### Machine Learning Tools
-<p
+<p>
 
    <a href="https://scikit-learn.org/" target="_blank">
     <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
