@@ -67,6 +67,10 @@ Here are some ideas to get you started:
   <a href="https://www.cprogramming.com/" target="_blank">
 	  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   </a>
+
+  <a href="https://www.latex-project.org" target="_blank">
+	  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge">
+  </a>
   
 </p>
 
@@ -219,9 +223,9 @@ Here are some ideas to get you started:
  </p>-->
  
  ### Learning
- <p
+ <p>
   
-  <a href="" target="_blank">
+  <a href="https://www.tensorflow.org" target="_blank">
     <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
   
@@ -229,15 +233,15 @@ Here are some ideas to get you started:
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   </a>
   
- <a href="" target="_blank">
+ <a href="www.djangoproject.com" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://flask.palletsprojects.com" target="_blank">
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   </a>
   
-  <a href="" target="_blank">
+  <a href="https://cloud.google.com" target="_blank">
     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
   </a>
   
