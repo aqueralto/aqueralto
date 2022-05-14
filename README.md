@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
 
-  <a href="" target="_blank">
+  <a href="www.html.com" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
  
-  <a href="" target="_blank">
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   </a>
   
@@ -72,17 +72,14 @@ Here are some ideas to get you started:
 
 ### Database Tools
 <p>
-     <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+    <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
-    <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <a href="https://www.mysql.com" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-    <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
-    <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <a href="https://www.postgresql.org" target="_blank">
+    <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
 
 </p>
