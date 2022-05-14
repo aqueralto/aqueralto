@@ -264,7 +264,7 @@ Here are some ideas to get you started:
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aqueralto" height="100px"/>
   <br/>
-	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqueralto&theme=tokyonight" alt="aqueralto" height="100px"/>
+	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqueralto&theme=tokyonight" alt="aqueralto" height="192px"/>
   <br/>
   </p>
 </details>
