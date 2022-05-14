@@ -85,7 +85,9 @@ Here are some ideas to get you started:
 
 ### Visualisation Tools
 <p  
-  
+  <a href="https://github.com/aqueralto/Matplotlib"><img alt="star this repo" src="https://githubbadges.com/star.svg?user=aqueralto&repo=Matplotlib&style=flat" /></a>
+<a href="https://github.com/aqueralto/Matplotlib/fork"><img alt="fork this repo" src="https://githubbadges.com/fork.svg?user=aqueralto&repo=Matplotlib&style=flat" /></a>
+   
    <a href="https://plotly.com/" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
