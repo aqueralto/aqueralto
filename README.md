@@ -112,6 +112,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   
+  <a href="www.linux.org" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="linux" />
+  </a>
+  
+  <a href="www.ubuntu.com" target="_blank">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" alt="linux" />
+  </a>
+  
 </p>
 
 ### Data Manipulation Tools
