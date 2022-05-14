@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Visualisation Tools
-<p  
+<p>  
   <a href="https://matplotlib.org/" target="_blank">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-F37626.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
   </a>
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Development Tools
-<p
+<p>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
@@ -153,6 +153,10 @@ Here are some ideas to get you started:
   
   <a href="https://scipy.org/" target="_blank">
     <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+  </a>
+
+<a href="http://pentaho.com/" target="_blank">
+    <img alt="Pentaho" src="https://img.shields.io/badge/Pentaho Data Integration-F37626.svg?style=for-the-badge&logo=pdi&logoColor=white">
   </a>
 
  </p>
