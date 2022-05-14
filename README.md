@@ -282,7 +282,7 @@ Here are some ideas to get you started:
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aqueralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## What I'm Currently Listening To
+<!--## What I'm Currently Listening To
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
@@ -294,7 +294,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img  src="https://raw.githubusercontent.com/aqueralto/aqueralto/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
-</p>
+</p>-->
 	
 ------
 
