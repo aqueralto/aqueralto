@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a> 
   
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C.svg?style=for-the-badge&logo=c%20&logoColor=white">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C++.svg?style=for-the-badge&logo=c%20&logoColor=white">
   </a> 
   
 </p>
