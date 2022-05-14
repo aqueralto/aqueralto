@@ -247,7 +247,62 @@ Here are some ideas to get you started:
   
  </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Projects
+
+<a href="https://github.com/aqueralto/ml_ijp_deposition_paper">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aqueralto&repo=ml_ijp_deposition_paper&theme=tokyonight" />
+
+</a>  
+
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Albert Queralto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aqueralto&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aqueralto" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/aqueralto"><img alt="Albert Queralto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aqueralto&custom_title=Albert Queralto's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aqueralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+## What I'm Currently Listening To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
+      alt="example"> 
+</p>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
+![](https://hit.yhype.me/github/profile?user_id=101701760)
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact" alt="aqueralto" /></p>
 
