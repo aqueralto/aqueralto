@@ -264,6 +264,8 @@ Here are some ideas to get you started:
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aqueralto" height="100px"/>
   <br/>
+	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqueralto&theme=tokyonight" alt="aqueralto" height="100px"/>
+  <br/>
   </p>
 </details>
 
@@ -296,13 +298,4 @@ Here are some ideas to get you started:
 
 ------
 ![](https://hit.yhype.me/github/profile?user_id=101701760)
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact" alt="aqueralto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqueralto&show_icons=true&locale=en" alt="aqueralto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqueralto&" alt="aqueralto" /></p>
 
