@@ -56,10 +56,12 @@ Here are some ideas to get you started:
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   </a>
   
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+	  <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge">
   </a>
   
-  <a href="https://www.cprogramming.com/" target="_blank"> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <a href="https://www.cprogramming.com/" target="_blank">
+	  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   </a>
   
 </p>
