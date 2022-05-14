@@ -266,7 +266,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Albert Queralto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aqueralto&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aqueralto" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aqueralto" height="100px"/>
   <br/>
   </p>
 </details>
@@ -274,7 +274,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aqueralto"><img alt="Albert Queralto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aqueralto&custom_title=Albert Queralto's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/aqueralto"><img alt="Albert Queralto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aqueralto&custom_title=Albert%20Queralto's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
