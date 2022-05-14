@@ -291,8 +291,7 @@ Here are some ideas to get you started:
 
 ----
 
-  ![snake animation](https://github.com/aqueralto/aqueralto/blob/output/github-contribution-grid-snake2.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 	
-
 ------
 
