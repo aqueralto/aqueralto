@@ -291,7 +291,10 @@ Here are some ideas to get you started:
 
 ----
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/aqueralto/aqueralto/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 	
 ------
 
