@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **albert.queralto.lopez@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+##Connect with me
 <p align="left">
 <a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge"></a>
 <a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertqueralto" height="30" width="40" /></a>
