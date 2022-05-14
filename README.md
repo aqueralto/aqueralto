@@ -88,6 +88,10 @@ Here are some ideas to get you started:
   <a href="https://matplotlib.org/" target="_blank">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-F37626.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
   </a>
+  
+  <a href="https://seaborn.pydata.org" target="_blank">
+    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-00A98F?style=for-the-badge&logo=Seaborn&logoColor=white">
+  </a>
    
    <a href="https://plotly.com/" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
