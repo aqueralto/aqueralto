@@ -43,6 +43,10 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
+	
+  <a href="https://www.r-project.org/" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge">
+  </a>
   
   <a href="https://www.mysql.com/">
 	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -100,6 +104,11 @@ Here are some ideas to get you started:
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
   </a>
+  
+  <a href="www.tableau.com" target="_blank">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge">
+  </a>
+  
 </p>
 
 ### Development Tools
@@ -160,9 +169,14 @@ Here are some ideas to get you started:
 
  </p>
 
-<!--### Backend Tools
+### Backend Tools
 <p
- <a href="" target="_blank">
+   <a href="" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge">
+  </a>
+
+</p>
+<!-- <a href="" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   </a>
   
@@ -204,9 +218,6 @@ Here are some ideas to get you started:
  
  ### Learning
  <p
-    <a href="www.tableau.com" target="_blank">
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge">
-  </a>
   
   <a href="" target="_blank">
     <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
