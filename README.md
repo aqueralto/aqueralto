@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **albert.queralto.lopez@gmail.com**
 
-## Connect with me<img src = "https://media4.giphy.com/media/RGUY7A3qynzOmOpOn8/giphy.gif?cid=ecf05e47mww72ovcbhd0dxbva0nqpqxm1mdu1mfw57rw6g8f&rid=giphy.gif&ct=s" width = 50 px>
+## Connect with me<img src = "https://media4.giphy.com/media/RGUY7A3qynzOmOpOn8/giphy.gif?cid=ecf05e47mww72ovcbhd0dxbva0nqpqxm1mdu1mfw57rw6g8f&rid=giphy.gif" width = 100 px>
 
 <a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge"></a>
 <a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertqueralto" height="30" width="40" /></a>
