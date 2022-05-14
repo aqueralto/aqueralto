@@ -262,7 +262,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Albert Queralto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aqueralto&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aqueralto" height="100px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqueralto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aqueralto" height="130px"/>
   <br/>
 	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqueralto&theme=tokyonight" alt="aqueralto" height="192px"/>
   <br/>
@@ -297,5 +297,4 @@ Here are some ideas to get you started:
 </p>
 
 ------
-![](https://hit.yhype.me/github/profile?user_id=101701760)
 
