@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning projects.**
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100"/>
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47steeaacb4944lyjwn3vee8jprqgzumw8328x2txl&rid=giphy.gif&ct=g" width="100"/>
 
 
 ## How to reach me <img src = "https://media1.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif?cid=ecf05e47mww72ovcbhd0dxbva0nqpqxm1mdu1mfw57rw6g8f&rid=giphy.gif&ct=s" width = 25 px>
