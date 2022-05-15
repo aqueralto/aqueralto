@@ -38,111 +38,128 @@ Here are some ideas to get you started:
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 
-### Languages 
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
+ <div class="row">
+  <div class="column">
 	
-  <a href="https://www.r-project.org/" target="_blank">
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge">
-  </a>
-  
-  <a href="https://www.mysql.com/">
-	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  </a>
+	### Languages 
+	<p align="left">
+  	<a href="https://www.python.org" target="_blank">
+    	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python logoColor=white">
+  	</a>
+	
+	  <a href="https://www.r-project.org/" target="_blank">
+	    <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge">
+	  </a>
 
-  <a href="www.html.com" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
- 
-  <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-  </a>
-  
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-	  <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge">
-  </a>
-  
-  <a href="https://www.cprogramming.com/" target="_blank">
-	  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  </a>
+	  <a href="https://www.mysql.com/">
+		<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+	  </a>
 
-  <a href="https://www.latex-project.org" target="_blank">
-	  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge">
-  </a>
-  
-</p>
+	  <a href="www.html.com" target="_blank">
+	    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+	  </a>
 
-### Database Tools
-<p>
-     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-    <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  </a>
-    <a href="https://www.mysql.com" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-    <a href="https://www.postgresql.org" target="_blank">
-    <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
+	  <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+	    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+	  </a>
 
-</p>
+	  <a href="https://www.gnu.org/software/bash/" target="_blank">
+		  <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge">
+	  </a>
 
-### Visualisation Tools
-<p>  
-  <a href="https://matplotlib.org/" target="_blank">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-F37626.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
-  </a>
-  
-  <a href="https://seaborn.pydata.org" target="_blank">
-    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-00A98F?style=for-the-badge&logo=Seaborn&logoColor=white">
-  </a>
-   
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  </a>
-  
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
-  </a>
-  
-  <a href="www.tableau.com" target="_blank">
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge">
-  </a>
-  
-</p>
+	  <a href="https://www.cprogramming.com/" target="_blank">
+		  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+	  </a>
 
-### Development Tools
-<p>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
-  </a>
-   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  
-  <a href="www.linux.org" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="linux" />
-  </a>
-  
-  <a href="www.ubuntu.com" target="_blank">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" alt="linux" />
-  </a>
-  
-</p>
+	  <a href="https://www.latex-project.org" target="_blank">
+		  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge">
+	  </a>
+
+	</p>
+	  
+	### Development Tools
+	<p>
+	  <a href="https://code.visualstudio.com/" target="_blank">
+	    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+	  </a>
+	  <a href="https://www.jetbrains.com/" target="_blank">
+	    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
+	  </a>
+	   <a href="https://jupyter.org/" target="_blank">
+	    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+	  </a>
+	  <a href="https://colab.research.google.com/" target="_blank">
+	    <img alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+	  </a>
+	  <a href="https://git-scm.com/" target="_blank">
+	    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+	      alt="git"/>
+	  </a>
+	  <a href="https://github.com/" target="_blank">
+	    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+	  </a>
+
+	  <a href="www.linux.org" target="_blank">
+	    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="linux" />
+	  </a>
+
+	  <a href="www.ubuntu.com" target="_blank">
+	    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" alt="linux" />
+	  </a>
+
+	</p>
+	  
+  </div>
+  <div class="column">
+	
+	### Database Tools
+	<p>
+	     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+	    <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+	  </a>
+	    <a href="https://www.mysql.com" target="_blank">
+	    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+	  </a>
+	    <a href="https://www.postgresql.org" target="_blank">
+	    <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+	  </a>
+
+	</p>
+	  
+	### Visualisation Tools
+	<p>  
+	  <a href="https://matplotlib.org/" target="_blank">
+	    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-F37626.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
+	  </a>
+
+	  <a href="https://seaborn.pydata.org" target="_blank">
+	    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-00A98F?style=for-the-badge&logo=Seaborn&logoColor=white">
+	  </a>
+
+	   <a href="https://plotly.com/" target="_blank">
+	    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+	  </a>
+
+	  <a href="" target="_blank">
+	    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
+	  </a>
+
+	  <a href="www.tableau.com" target="_blank">
+	    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge">
+	  </a>
+
+	</p>
+	  
+  </div>
+</div> 
+
+
+
+
+
+
+
+
 
 ### Data Manipulation Tools
 <p> 
