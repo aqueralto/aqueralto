@@ -294,11 +294,11 @@ Here are some ideas to get you started:
 </p>
 
 ----
-
+-->
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/aqueralto/aqueralto/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"
     alt="example" />
-</p>-->
+</p>
 	
 ------
 
