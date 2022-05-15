@@ -37,19 +37,16 @@ Here are some ideas to get you started:
 </div>
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
-
- <div class="row">
-  <div class="column">
 	
-	### Languages 
-	<p align="left">
-  	<a href="https://www.python.org" target="_blank">
-    	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python logoColor=white">
-  	</a>
+### Languages 
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python logoColor=white">
+  </a>
 	
-	  <a href="https://www.r-project.org/" target="_blank">
-	    <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge">
-	  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+	   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge">
+  </a>
 
 	  <a href="https://www.mysql.com/">
 		<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -77,8 +74,8 @@ Here are some ideas to get you started:
 
 	</p>
 	  
-	### Development Tools
-	<p>
+### Development Tools
+<p>
 	  <a href="https://code.visualstudio.com/" target="_blank">
 	    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
 	  </a>
@@ -107,13 +104,11 @@ Here are some ideas to get you started:
 	    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" alt="linux" />
 	  </a>
 
-	</p>
-	  
-  </div>
-  <div class="column">
+</p>
+
 	
-	### Database Tools
-	<p>
+### Database Tools
+<p>
 	     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
 	    <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 	  </a>
@@ -124,10 +119,10 @@ Here are some ideas to get you started:
 	    <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 	  </a>
 
-	</p>
+</p>
 	  
-	### Visualisation Tools
-	<p>  
+### Visualisation Tools
+<p>  
 	  <a href="https://matplotlib.org/" target="_blank">
 	    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-F37626.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
 	  </a>
@@ -148,18 +143,7 @@ Here are some ideas to get you started:
 	    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge">
 	  </a>
 
-	</p>
-	  
-  </div>
-</div> 
-
-
-
-
-
-
-
-
+</p>
 
 ### Data Manipulation Tools
 <p> 
@@ -303,15 +287,6 @@ Here are some ideas to get you started:
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aqueralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<!--## What I'm Currently Listening To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
-      alt="example"> 
-</p>
-
-----
--->
 <p align="center">
   <img src="https://github.com/aqueralto/aqueralto/blob/output/github-contribution-grid-snake.svg"
     alt="snake" />
