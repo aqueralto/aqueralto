@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/queraltoalbert" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge"></a>
 <a href="https://linkedin.com/in/albertqueralto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="albertqueralto"></a>
 <a href="https://kaggle.com/albertqueralto" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge" alt="albertqueralto"></a>
-<a href="albert.queralto.lopez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="albertqueralto"></a>	
+<a href="mailto: albert.queralto.lopez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="albertqueralto"></a>	
 	
 <img src="https://komarev.com/ghpvc/?username=aqueralto&label=Profile%20views&color=0e75b6&style=flat" alt="aqueralto" /> <a href="https://twitter.com/queraltoalbert" target="blank"><img src="https://img.shields.io/twitter/follow/QueraltoAlbert?logo=twitter&style=for-the-badge" alt="QueraltoAlbert" /></a>
 	
