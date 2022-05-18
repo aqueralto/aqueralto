@@ -145,7 +145,7 @@ Here are some ideas to get you started:
 
 </p>
 
-### Data Manipulation Tools
+### Data Treatment and ETL Tools
 <p> 
   
   <a href="https://numpy.org/" target="_blank">
