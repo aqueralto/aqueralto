@@ -287,10 +287,12 @@ Here are some ideas to get you started:
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aqueralto&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+<!--
 <p align="center">
   <img src="https://github.com/aqueralto/aqueralto/blob/output/github-contribution-grid-snake.svg"
     alt="snake" />
 </p>
+-->
 	
 ------
 
