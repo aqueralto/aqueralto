@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=1000&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Data+Scientist%2C+Physicist+and+PhD+in+Materials+Science;I+am+also+a+Computer+Science+and+Coding+Enthusiast)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Machine Learning for Materials Development and Optimization.**
-
-- 👯 I’m looking to collaborate on **Data Science and Machine Learning projects.**
-
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47steeaacb4944lyjwn3vee8jprqgzumw8328x2txl&rid=giphy.gif&ct=g" width="250"/>
 
